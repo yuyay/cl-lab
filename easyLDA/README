@@ -1,0 +1,2 @@
+Simple usage:
+       python easylda.py bank.txt 2
